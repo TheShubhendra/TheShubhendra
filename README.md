@@ -23,3 +23,4 @@
 
 ![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact)
 
+[![pygita](https://github-readme-stats.vercel.app/api/pin/?username=TheShubhendra&repo=pygita&theme=vision-friendly-dark)](https://github.com/TheShubhendra/pygita)
