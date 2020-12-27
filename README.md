@@ -19,6 +19,6 @@
 
 - 😄 Pronouns: He/Him
 
-![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true&theme=blue-green)
+![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
-![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&theme=blue-green)
+![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&theme=vision-friendly-dark)
