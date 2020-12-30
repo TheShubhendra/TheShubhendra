@@ -18,7 +18,7 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" alt="Quora">
 </a>
 <a href="https://t.me/Bin_Ex">
-<img  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="Quora">
+<img  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="Quora">
 </a><br />
 
 ## About me
