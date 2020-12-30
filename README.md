@@ -13,12 +13,12 @@
 </a>
 <a href="https://facebook.com/TheShubhendra">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook">
-</a><br />
+</a>
 <a href="https://quora.com/Shubhendra-Kushwaha-1">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" alt="Quora">
-</a><br />
+</a>
 <a href="https://t.me/Bin_Ex">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="Quora">
+<img  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="Quora">
 </a><br />
 
 ## About me
