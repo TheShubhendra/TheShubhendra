@@ -25,6 +25,9 @@
 
 - 😄 Pronouns: He/Him
 
+![Vistiors](https://visitor-badge.glitch.me/badge?page_id=TheShubhendra)
+
+
 ![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
 ![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact)
