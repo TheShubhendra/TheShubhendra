@@ -49,3 +49,5 @@ Quick learner | Hard Working | Optimistic | Introvert
 ![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true)
 
 ![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&langs_count=10&layout=compact)
+
+![Github metrics](https://metrics.lecoq.io/TheShubhendra)
