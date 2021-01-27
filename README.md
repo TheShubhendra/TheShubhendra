@@ -44,9 +44,8 @@ Quick learner | Hard Working | Optimistic | Introvert
 
 ![Vistiors](https://visitor-badge.glitch.me/badge?page_id=TheShubhendra)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheShubhendra)
 
-![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true&theme=vision-friendly-dark)
+![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true)
 
-![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact)
-
-[![pygita](https://github-readme-stats.vercel.app/api/pin/?username=TheShubhendra&repo=pygita&theme=vision-friendly-dark)](https://github.com/TheShubhendra/pygita)
+![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&langs_count=10&layout=compact)
