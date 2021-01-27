@@ -26,9 +26,12 @@
 Quick learner | Hard Working | Optimistic | Introvert
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TheShubhendra)
 - 😄 Pronouns: He/Him
 - ❤️ Love: Coding
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TheShubhendra)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TheShubhendra)  
 
 
 ## Skills
