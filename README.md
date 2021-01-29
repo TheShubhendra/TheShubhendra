@@ -44,6 +44,8 @@ Quick learner | Hard Working | Optimistic | Introvert
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img color="red" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" alt="Git">
+<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub">
 
 
 ![Vistiors](https://visitor-badge.glitch.me/badge?page_id=TheShubhendra)
