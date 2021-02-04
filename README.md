@@ -24,7 +24,7 @@
 
 ## About me
 
-Quick learner | Hard Working | Optimistic | Introvert
+Pythonista | Quick learner | Hard Working | Optimistic | Introvert
 
 
 - 😄 Pronouns: He/Him
