@@ -47,4 +47,4 @@ Pythonista | Quick learner | Hard Working | Optimistic | Introvert
 
 ![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&langs_count=10&layout=compact)
 
-![Metrics](github-metrics.svg)
+![Metrics](https://github.com/TheShubhendra/TheShubhendra/blob/main/github-metrics.svg)
