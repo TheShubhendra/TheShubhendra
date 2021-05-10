@@ -42,7 +42,7 @@ Pythonista | Quick learner | Hard Working | Optimistic | Introvert
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheShubhendra)
 
-![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhendra&show_icons=true&hide_border=true)
+![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=The2eShubhebndra&show_icons=true&hide_border=true&count_private=True)
 
 
 ![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&langs_count=10&layout=compact)
