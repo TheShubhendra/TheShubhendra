@@ -30,6 +30,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_notable: yes
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
+        # plugin_tweets: yes
+    #      plugin_tweets_limit: 2
           plugin_tweets_user: TheShubhendra
