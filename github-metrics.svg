@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1969" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1862" class="">
     <defs>
         <style/>
     </defs>
@@ -1397,11 +1397,6 @@
                   
                   <div class="date">16:51 on 17/07/2021</div>
                 </div>
-                        <div class="tweet">
-                  RT <span class="mention">@gol_gappa_xd</span>: Behavior is not the actual problem. It is the expression of the problem. <br /><br />Don't treat the behavior, treat the core of th…
-                  
-                  <div class="date">15:46 on 17/07/2021</div>
-                </div>
                     </section>
                 </div>
             </section>
@@ -2573,7 +2568,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.184876026683803 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.193724921438992 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3073,7 +3068,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/07/2021, 15:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 24/07/2021, 16:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
