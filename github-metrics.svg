@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2363" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2156" class="">
     <defs>
         <style/>
     </defs>
@@ -283,28 +283,6 @@
                                 </div>
                             </div>
                             <div class="date">15:01:56 on 10 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Honestly rate yourself
-                            <br />
-                            Looks - 8/10
-                            <br />
-                            Creativity - 7/10
-                            <br />
-                            Mental Health - 4/10
-                            <br />
-                            Empathy - 9/10
-                            <br />
-                            Patience - 8/10
-                            <br />
-                            Social skills - 7/10
-                            <br />
-                            Memory - 7/10
-                            <br />
-                            Intelligence - 9/10
-                            <br />
-                            <a href="https://t.co/Uxcdl7siEA" class="link">twitter.com/TheDeluxe4/sta…</a>
-                            <div class="date">10:52:49 on 6 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2089,7 +2067,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2022, 10:38:25 (timezone Asia/Calcutta) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 11:41:02 (timezone Asia/Calcutta) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
