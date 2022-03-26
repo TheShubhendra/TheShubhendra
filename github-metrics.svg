@@ -275,14 +275,14 @@
                             TheShubhendra
                         </div>
                         <div class="tweet">
+                            <span class="mention">@RitikKhatana13</span>
+                            And only after that storm you'll realise that you were soo .. !!
+                            <div class="date">11:24:00 on 26 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@vaiiibbhav</span>
                             Dubai??
                             <div class="date">19:48:18 on 20 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@RitikKhatana13</span>
-                            🤣🤣
-                            <div class="date">19:46:15 on 20 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2062,7 +2062,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2022, 10:32:48 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Mar 2022, 11:38:06 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
