@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2081" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2048" class="">
     <defs>
         <style/>
     </defs>
@@ -275,6 +275,11 @@
                             TheShubhendra
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Priyank_hahaha</span>
+                            Itni jaldi sadbuddhi, 0_0 Jai shree Krishna!!¡!
+                            <div class="date">10:34:08 on 29 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@PhilosophyDose_</span>
                             : “Be brave. Take risks. Nothing can substitute experience.”
@@ -282,15 +287,6 @@
                             <br />
                             - Paulo Coelho
                             <div class="date">20:40:05 on 28 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@langford_dev</span>
-                            : Great books you should read as a developer
-                            <br />
-                            <br />
-                            Le Thread 🧵👇
-                            <div class="date">21:28:12 on 27 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2087,7 +2083,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2022, 09:36:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 10:34:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
