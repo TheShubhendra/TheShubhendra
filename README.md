@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shubhendra!](https://shubhendrakushwaha.com) 
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shubhendra!](https://shubhendra.in) 
 <a href="https://www.linkedin.com/in/TheShubhendra/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
