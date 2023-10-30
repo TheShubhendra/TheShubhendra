@@ -5,14 +5,11 @@
 <a href="mailto:contact@shubhendra.in">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Mail">
 </a>
-<a href="https://twitter.com" >
+<a href="https://twitter.com/TheShubhendra" >
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter">
 </a>
 <a href="https://shubhendrakushwaha.wordpress.com">
 <img align="left" width="26x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg">
-</a>
-<a href="https://facebook.com/TheShubhendra">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook">
 </a>
 <a href="https://quora.com/Shubhendra-Kushwaha-1">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" alt="Quora">
