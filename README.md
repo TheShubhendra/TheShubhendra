@@ -20,7 +20,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheShubhendra)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TheShubhendra)  
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +30,7 @@
 
 
 
-![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&langs_count=10&layout=compact)
+<div style="display:flex; justify-content: space-between; align-items:center; flex-direction:row; "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhendra&hide_border=true&langs_count=10&layout=compact"><img style="height:214px" src="https://github-readme-streak-stats.herokuapp.com/?user=TheShubhendra"></div>
+
 
 ![Metrics](https://github.com/TheShubhendra/TheShubhendra/blob/main/github-metrics.svg)
