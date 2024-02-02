@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,python,react,html,css,scss,linux,javascript,php,heroku,arduino,bash,fastapi,wordpress,raspberrypi,mysql,git,github,mysql&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=aws,python,react,scss,linux,javascript,php,heroku,arduino,bash,fastapi,wordpress,raspberrypi,mysql,git,github,blender&perline=13"/>
   </p>
 
 
