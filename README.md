@@ -38,7 +38,7 @@
   
   
 </p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,scss,linux,javascript,php,heroku,arduino,bash,wordpress,raspberrypi,mysql,github,blender&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,postgresql,linux,javascript,php,heroku,arduino,bash,wordpress,raspberrypi,mysql,github,blender&perline=13"/>
 
 
 
