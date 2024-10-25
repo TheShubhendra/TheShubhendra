@@ -30,14 +30,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="left"><img width=50 src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMjg2MTMsIm5iZiI6MTcwOTIyODMxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDE3MzgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmMWViYTQzMTU5NWUyM2E2ZGQwNGFiZjg0ZGMyZjMwODJjMzc5MTIzNDY5Yzg0ODNlMGJlOTYyMTdkOGUxZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bwgqJtIwe7NYh2PYwOU_1VRZBVkZzooWv-xzmy_1jnA">
+<p align="left">
+<img width=50 src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMjg2MTMsIm5iZiI6MTcwOTIyODMxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDE3MzgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmMWViYTQzMTU5NWUyM2E2ZGQwNGFiZjg0ZGMyZjMwODJjMzc5MTIzNDY5Yzg0ODNlMGJlOTYyMTdkOGUxZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bwgqJtIwe7NYh2PYwOU_1VRZBVkZzooWv-xzmy_1jnA">
   <img width=50 src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
   <img width=80 src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
    <img width=50 src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   
   
 </p>
-  <img src="https://skillicons.dev/icons?i=aws,scss,linux,javascript,php,heroku,arduino,bash,fastapi,wordpress,raspberrypi,mysql,github,blender&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,scss,linux,javascript,php,heroku,arduino,bash,wordpress,raspberrypi,mysql,github,blender&perline=13"/>
 
 
 
