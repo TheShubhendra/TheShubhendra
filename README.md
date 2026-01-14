@@ -19,7 +19,9 @@
 
 <img src="https://skillicons.dev/icons?i=fastapi,python,docker,kubernetes,aws,postgresql,redis,linux,git,github,azure,pycharm,react,bash,mysql,postman,heroku,raspberrypi,javascript,c,php,css,discord,bots,wordpress,arduino,blender&perline=18" />
 
-
+<h3 align="left">Credly Badges</h3>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ![Metrics](https://github.com/TheShubhendra/TheShubhendra/blob/main/github-metrics.svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=TheShubhendra&column=5)
